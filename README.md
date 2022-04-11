@@ -3,11 +3,11 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=siddharthksah&label=Profile%20views&color=0e75b6&style=flat" alt="siddharthksah" /> </p>
 
-- 🔭 I’m currently working on [DeepSafe](https://www.siddharthsah.com/deepsafe)
+- 🔭 I’m currently working on [DeepSafe](https://www.siddharthsah.com/deepsafe-webapp){:target="_blank"}
 
-- 👨‍💻 All of my projects are available at [https://www.siddharthsah.com/projects](https://www.siddharthsah.com/projects)
+- 👨‍💻 All of my projects are available at [https://www.siddharthsah.com/projects](https://www.siddharthsah.com/projects){:target="_blank"}
 
-- 📄 Know about my experiences [https://www.siddharthsah.com/resume](https://www.siddharthsah.com/resume)
+- 📄 Know about my experiences [https://www.siddharthsah.com/resume](https://www.siddharthsah.com/resume){:target="_blank"}
 
 <p align="left">
 </p>
