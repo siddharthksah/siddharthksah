@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=siddharthksah&label=Profile%20views&color=0e75b6&style=flat" alt="siddharthksah" /> </p>
 
-- 🔭 I’m currently working on [DeepSafe](https://www.siddharthsah.com/deepsafe-webapp){:target="_blank"}
+- 🔭 I’m currently working on [DeepSafe](https://www.siddharthsah.com/deepsafe-webapp){:target="_blank" rel="noopener"}
 
 - 👨‍💻 All of my projects are available at [https://www.siddharthsah.com/projects](https://www.siddharthsah.com/projects){:target="_blank"}
 
