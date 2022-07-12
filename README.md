@@ -5,7 +5,7 @@
 --->
 
 
-- 🔭 I’m currently working on [DeepSafe](https://deepsafe.loca.lt/) - a web based DeepFake Detector.
+- 🔭 I’m currently working on [DeepSafe](https://deepsafe.ml/) - a web based DeepFake Detector.
 
 - 👨‍💻 All of my projects are available at [https://www.siddharthsah.com/projects](https://www.siddharthsah.com/projects)
 
