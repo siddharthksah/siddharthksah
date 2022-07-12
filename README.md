@@ -7,9 +7,8 @@
 
 - 🔭 I’m currently working on [DeepSafe](https://deepsafe.ml/) - a web based DeepFake Detector.
 
-- 👨‍💻 All of my projects are available at [https://www.siddharthsah.com/projects](https://www.siddharthsah.com/projects)
 
-- 📄 Know about my experiences [https://www.siddharthsah.com/resume](https://www.siddharthsah.com/resume)
+- 📄 Know about my experiences - [Request Resume here](https://www.siddharthsah.com/resume)
 <p align="left">
 </p>
 
