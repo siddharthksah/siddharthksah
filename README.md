@@ -5,10 +5,10 @@
 --->
 
 
-- 🔭 I’m currently working on [DeepSafe](http://deepsafe.ml/) - a web based DeepFake Detector.
+- 🔭 I’m currently working on [DeepSafe](http://deepsafe.ml/){:target="_blank"} - a web based DeepFake Detector.
 
 
-- 📄 Know about my experiences - [Request Resume here](https://www.siddharthsah.com/)
+- 📄 Know about my experiences - [Request Resume here](https://www.siddharthsah.com/){:target="_blank"}
 <p align="left">
 </p>
 
