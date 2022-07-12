@@ -5,7 +5,7 @@
 --->
 
 
-- 🔭 I’m currently working on [DeepSafe](https://deepsafe.ml/) - a web based DeepFake Detector.
+- 🔭 I’m currently working on [DeepSafe](http://deepsafe.ml/) - a web based DeepFake Detector.
 
 
 - 📄 Know about my experiences - [Request Resume here](https://www.siddharthsah.com/resume)
