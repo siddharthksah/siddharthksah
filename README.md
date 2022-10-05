@@ -1,4 +1,4 @@
-<h1 align="left">Hi 👋</h1>
+<h1 align="left">Namaste 🙏</h1>
 <h3 align="left">Computer Vision@SUTD, Singapore</h3>
 <!---
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=siddharthksah&label=Profile%20views&color=0e75b6&style=flat" alt="siddharthksah" /> </p>
