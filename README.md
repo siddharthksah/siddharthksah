@@ -5,7 +5,9 @@
 --->
 
 
-- 🔭 I’m currently working on [DeepSafe](http://deepsafe.ml/) - a web based DeepFake Detector.
+- 🔭 I currently work as a Sr. Research Engineer @ Visual Computing Group.
+
+- 🤙 I expertise in building AI pipelines from ideation to production - fast.
 
 
 - 📄 Know about my experiences - [Request Resume here](https://www.siddharthsah.com/)
