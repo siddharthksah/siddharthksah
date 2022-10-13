@@ -10,7 +10,7 @@
 - 🤙 I expertise in building AI pipelines from ideation to production - fast.
 
 
-- 📄 Know about my experiences - [Request Resume here](https://www.siddharthsah.com/)
+- 📄 Know about my experiences - [Here](https://www.siddharthsah.com/)
 <p align="left">
 </p>
 
