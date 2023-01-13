@@ -5,7 +5,7 @@
 --->
 
 
-- 🔭 I currently work as a Sr. Research Engineer @ Visual Computing Group, SUTD Singapore.
+- 🔭 I am currently working as a Sr. Research Engineer @ Visual Computing Group, SUTD Singapore.
 
 - 🤙 I expertise in building AI pipelines from ideation to production - fast.
 
