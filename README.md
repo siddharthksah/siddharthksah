@@ -1,5 +1,5 @@
 <h1 align="left">Namaste 🙏</h1>
-<h3 align="left">AI @ Panasonic, Singapore</h3>
+<h3 align="left">AI @ Panasonic R&D, Singapore</h3>
 <!---
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=siddharthksah&label=Profile%20views&color=0e75b6&style=flat" alt="siddharthksah" /> </p>
 --->
