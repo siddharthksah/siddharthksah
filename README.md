@@ -5,7 +5,7 @@
 --->
 
 
-- 🔭 I am currently working as a Senior AI Engineer II at Panasonic.
+- 🔭 I work as a Senior AI Engineer II at Panasonic.
 
 - 🤙 I expertise in building AI pipelines from ideation to production - fast.
 
