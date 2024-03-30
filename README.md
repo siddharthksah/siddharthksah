@@ -5,12 +5,12 @@
 --->
 
 
-- 🔭 I am currently working as a Senior Engineer II at Panasonic.
+- 🔭 I am currently working as a Senior AI Engineer II at Panasonic.
 
 - 🤙 I expertise in building AI pipelines from ideation to production - fast.
 
 
-- 📄 Know about my experiences - [Here](https://www.siddharthsah.com/)
+- 📄 Know about my experiences - [Here](https://siddharthksah.github.io/)
 <p align="left">
 </p>
 
