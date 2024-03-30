@@ -10,7 +10,7 @@
 - 🤙 I expertise in building AI pipelines from ideation to production - fast.
 
 
-- 📄 Know about my experiences - <a href="https://siddharthksah.github.io/" target="_blank">Here</a>
+- 📄 Know about my experiences - [Here](https://siddharthksah.github.io/)
 <p align="left">
 </p>
 
